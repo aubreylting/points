@@ -1,0 +1,3 @@
+2021-11-16 00:56:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACTION" not found; SQL statement:
+select transactio0_.transaction_id as transact1_0_, transactio0_.payer as payer2_0_, transactio0_.points as points3_0_, transactio0_.timestamps as timestam4_0_ from transaction transactio0_ [42102-200]
